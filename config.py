@@ -11,7 +11,7 @@ class Config():
     # 开启调试
     DEBUG = True
 
-    SQLALCHEMY_DATABASE_URI = 'mysql://root:123@127.0.0.1:3306/new_informations'
+    SQLALCHEMY_DATABASE_URI = 'mysql://root:123@127.0.0.1:3306/new_information_2'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     REDIS_HOST = '127.0.0.1'
